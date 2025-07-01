@@ -46,6 +46,22 @@ I'm currently focused on developing production-ready systems using **Laravel**, 
 
 ---
 
+<h2 align="center">Hi there 👋, I'm </h2>
+<p align="center">
+  A results-driven <strong>Full-Stack Web Developer</strong> specializing in <strong>PHP & Laravel</strong>, with a passion for building secure, scalable web applications and managing cloud-native server environments.
+</p>
+
+<p align="center">
+  I work across the stack — from crafting responsive frontends with modern tools like <strong>Tailwind</strong> and <strong>Bootstrap</strong>, to architecting reliable backends using <strong>REST APIs</strong>, <strong>Docker</strong>, and <strong>Nginx</strong> on Linux systems.
+</p>
+
+<p align="center">
+  Currently focused on <strong>optimizing infrastructure</strong>, automating deployment pipelines, and delivering clean, maintainable code.
+</p>
+
+
+
+
 ## 🧰 Languages & Tools
 
 <p align="center">
