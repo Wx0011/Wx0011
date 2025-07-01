@@ -23,9 +23,13 @@ Here are some ideas to get you started:
 </p>
 
 
-![Code Time](https://img.shields.io/badge/Code%20Time-4453%20hrs%2028%20mins-blue?style=for-the-badge&logo=clockify)
+## 📊 My Stats
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Time-4453%20hrs%2028%20mins-blue?style=for-the-badge&logo=clockify" />
+  <img src="https://img.shields.io/badge/Profile%20Views-803-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-7.6%20million%20lines%20of%20code-blue?style=for-the-badge&logo=code" />
+</p>
 
 ## 👨‍💻 A little more about me...
 
