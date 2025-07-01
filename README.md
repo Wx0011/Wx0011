@@ -15,19 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧮 GitHub Statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0t&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o0t&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=o0t&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=o0t&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o0t&theme=github_dark&utcOffset=3)
 
 
 ## 🧠 GitHub Overview
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0t&theme=github_dark)
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=o0t&show_icons=true&theme=github_dark&count_private=true)
+<p align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0t&theme=github_dark)
+</p>
