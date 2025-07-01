@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=o0t&theme=dark&locale=ar&mode=weekly" alt="GitHub Streak" /></a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
