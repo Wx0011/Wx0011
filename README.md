@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <h2 align="center">🧠 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0t&theme=github_dark" />
 </p>
