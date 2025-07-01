@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 </p>
 
 
-https://img.shields.io/badge/Hello World-you_like-blue
+![Code Time](https://img.shields.io/badge/Code%20Time-4453%20hrs%2028%20mins-blue?style=for-the-badge&logo=clockify)
+
 
 
 ## 👨‍💻 A little more about me...
