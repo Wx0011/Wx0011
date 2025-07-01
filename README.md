@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-
-## 🧠 GitHub Overview
 <p align="center">
+## 🧠 GitHub Overview
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0t&theme=github_dark)
 </p>
