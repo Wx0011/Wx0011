@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ## 🧠 GitHub Overview
 <p align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0t&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0t&theme=github_dark)
 </p>
